@@ -6,14 +6,14 @@ SQL 명령어를 학습하면서 작성한 샘플 코드입니다.
 
 ## 💋 학습 순서
 
-### ✔️ CRUD
+### ✔️ Basic
 
 - [테이블 생성(DDL)](https://github.com/gitchan-Study/2023-sql-sample/pull/1)
 - [데이터 추가(DML)](https://github.com/gitchan-Study/2023-sql-sample/pull/3)
 - [데이터 수정(UPDATE)](https://github.com/gitchan-Study/2023-sql-sample/pull/4)
 - [데이터 삭제(DELETE)](https://github.com/gitchan-Study/2023-sql-sample/pull/5)
 
-### ✔️ SubQuery
+### ✔️ Advanced
 
 - `2023_sql_sample_dump.sql` 데이터로 진행
 
