@@ -7,3 +7,5 @@
 
 - [테이블 생성(DDL)](https://github.com/gitchan-Study/2023-sql-sample/pull/1)
 - [데이터 추가(DML)](https://github.com/gitchan-Study/2023-sql-sample/pull/3)
+- [데이터 수정(UPDATE)](https://github.com/gitchan-Study/2023-sql-sample/pull/4)
+- [데이터 삭제(DELETE)](https://github.com/gitchan-Study/2023-sql-sample/pull/5)
