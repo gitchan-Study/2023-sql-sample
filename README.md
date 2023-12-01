@@ -15,15 +15,7 @@ SQL 명령어를 학습하면서 작성한 샘플 코드입니다.
 
 ### ✔️ Advanced
 
-- `2023_sql_sample_dump.sql` 데이터로 진행
-
-- [데이터 백업 방법](https://engineerinsight.tistory.com/261)
-    - 로컬에 데이터베이스 생성 (이름: `2023_sql_sample_dump`)
-    - 아래 명령어 통해 데이터 백업
-
-```shell
-mysql -uroot -p 2023_sql_sample_dump < 2023_sql_sample_dump.sql
-```
+`/advance/2023_sql_sample_dump.sql` 데이터로 진행했습니다. 필요한 분은 [데이터 백업 방법](https://engineerinsight.tistory.com/261) 참고하셔서 진행하세요.
 
 - [JOIN 쿼리](https://engineerinsight.tistory.com/307)
 - [ORDER BY, Aggregate Function, GROUP BY, HAVING](https://engineerinsight.tistory.com/308)
