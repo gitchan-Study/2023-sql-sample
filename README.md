@@ -25,3 +25,5 @@ SQL 명령어를 학습하면서 작성한 샘플 코드입니다.
 mysql -uroot -p 2023_sql_sample_dump < 2023_sql_sample_dump.sql
 ```
 
+- [JOIN 쿼리](https://github.com/gitchan-Study/2023-sql-sample/pull/8)
+
